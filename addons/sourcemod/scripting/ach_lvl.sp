@@ -7,7 +7,7 @@
 public Plugin myinfo =
 {
 	name	= "[ACHIEVEMENTS] LVL Reward",
-	version	= "1.0.0",
+	version	= "0.0.1",
 	author	= "Pisex",
     url = "Discord => Pisex#0023"
 };
